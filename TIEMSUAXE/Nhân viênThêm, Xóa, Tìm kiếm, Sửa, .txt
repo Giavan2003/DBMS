@@ -1,0 +1,7 @@
+Nhân viên:Thêm, Xóa, Tìm kiếm, Sửa, 
+
+Phiếu sửa chữa:Thêm, Tìm kiếm, 
+
+Hóa đơn:Thêm, Tìm Kiếm, 
+
+Công việc:Thêm, Xóa, 

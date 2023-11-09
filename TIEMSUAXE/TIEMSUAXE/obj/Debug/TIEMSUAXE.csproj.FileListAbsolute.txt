@@ -1,0 +1,237 @@
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.exe.config
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.exe
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.pdb
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.AssemblyReference.cache
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.SuggestedBindingRedirects.cache
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.Properties.Resources.resources
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.GenerateResource.cache
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.CoreCompileInputs.cache
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.exe
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.pdb
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.Registry.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Newtonsoft.Json.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\RestSharp.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Buffers.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.CodeDom.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.Odbc.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.OleDb.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.SqlClient.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Diagnostics.EventLog.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Drawing.Common.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.Packaging.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.Ports.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Memory.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Numerics.Vectors.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.AccessControl.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Permissions.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Principal.Windows.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.ServiceModel.Syndication.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Threading.AccessControl.xml
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.Fody.CopyLocal.cache
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.CopyComplete
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.exe.licenses
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.CongViec.resources
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.NhanVien.resources
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.PhieuSC.resources
+D:\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.HoaDon.resources
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.exe.config
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.exe
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.pdb
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\Newtonsoft.Json.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\RestSharp.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Buffers.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.CodeDom.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.Odbc.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.OleDb.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.SqlClient.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Drawing.Common.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.Packaging.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.Ports.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Memory.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Numerics.Vectors.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.AccessControl.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Permissions.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Principal.Windows.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Threading.AccessControl.xml
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.AssemblyReference.cache
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.CongViec.resources
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.HoaDon.resources
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.NhanVien.resources
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.PhieuSC.resources
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.Properties.Resources.resources
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.GenerateResource.cache
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.exe.licenses
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.CoreCompileInputs.cache
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.Fody.CopyLocal.cache
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.CopyComplete
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.exe
+D:\Du_Lieu\SPKT3_Ki1\HCSDL\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.pdb
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.exe.config
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.exe
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\TIEMSUAXE.pdb
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Owin.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.Registry.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\Newtonsoft.Json.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\RestSharp.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Buffers.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.CodeDom.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.Odbc.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.OleDb.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Data.SqlClient.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Diagnostics.EventLog.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Drawing.Common.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.Packaging.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.IO.Ports.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Memory.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Numerics.Vectors.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.AccessControl.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Permissions.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Security.Principal.Windows.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.ServiceModel.Syndication.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\bin\Debug\System.Threading.AccessControl.xml
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.AssemblyReference.cache
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.CongViec.resources
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.HoaDon.resources
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.NhanVien.resources
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.PhieuSC.resources
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.Properties.Resources.resources
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.GenerateResource.cache
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.exe.licenses
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.CoreCompileInputs.cache
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.Fody.CopyLocal.cache
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.csproj.CopyComplete
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.exe
+D:\CSDL\TIEMSUAXE (2)\TIEMSUAXE\TIEMSUAXE\obj\Debug\TIEMSUAXE.pdb
